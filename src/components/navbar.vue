@@ -134,7 +134,7 @@ export default {
           </router-link>
           <router-link class="logo" to="/" v-else>
             <img
-              src="images/logo_M_horiz_blanco.png"
+              src="images/logo_M_horiz_gris.png"
               class="l-dark"
               width="200"
               height="auto"

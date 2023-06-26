@@ -148,11 +148,11 @@ export default {
                     designing and managing conversion centered bootstrap4 html
                     page.
                   </p>
-                  <div class="mt-4">
+                  <!-- <div class="mt-4">
                     <a href="#courses" class="btn btn-primary mt-2 mouse-down"
                       ><i class="mdi mdi-book-open-variant"></i> Find Courses</a
                     >
-                  </div>
+                  </div> -->
                 </div>
               </div>
               <!--end col-->
@@ -160,9 +160,9 @@ export default {
             <!--end row-->
           </div>
         </b-carousel-slide>
-        <!-- <b-carousel-slide
+        <b-carousel-slide
           class="bg-slider d-flex align-items-center"
-          style="background-image: url('images/course/bg04.jpg')"
+          style="background-image: url('images/fondo-principal-2.png')"
         >
           <div class="bg-overlay"></div>
           <div class="container">
@@ -177,16 +177,45 @@ export default {
                     designing and managing conversion centered bootstrap4 html
                     page.
                   </p>
-                  <div class="mt-4">
+                  <!-- <div class="mt-4">
                     <a href="#admission" class="btn btn-primary mt-2 mouse-down"
                       ><i class="mdi mdi-school"></i> Admission Now</a
                     >
-                  </div>
+                  </div> -->
                 </div>
               </div>
             </div>
           </div>
-        </b-carousel-slide> -->
+        </b-carousel-slide>
+        <b-carousel-slide
+          class="bg-slider d-flex align-items-center"
+          style="background-image: url('images/fondo-principal-3.png')"
+        >
+          <div class="bg-overlay"></div>
+          <div class="container">
+            <div class="row justify-content-center">
+              <div class="col-12 text-center">
+                <div class="title-heading text-white mt-4">
+                  <h1 class="display-4 title-dark font-weight-bold mb-3">
+                    Education Is The Key of Success
+                  </h1>
+                  <p class="para-desc para-dark mx-auto text-light">
+                    Launch your campaign and benefit from our expertise on
+                    designing and managing conversion centered bootstrap4 html
+                    page.
+                  </p>
+                  <!-- <div class="mt-4">
+                    <a
+                      href="#instructors"
+                      class="btn btn-primary mt-2 mouse-down"
+                      ><i class="mdi mdi-account"></i> Instructors</a
+                    >
+                  </div> -->
+                </div>
+              </div>
+            </div>
+          </div>
+        </b-carousel-slide>
       </b-carousel>
     </section>
     <!--end section-->

@@ -41,7 +41,7 @@
 .swiper-slider-hero .swiper-container .swiper-button-prev:hover,
 .swiper-slider-hero .swiper-container .swiper-button-next:hover,
 .ribbon.ribbon-primary span {
-    background-color: #2f55d4 !important;
+    background-color: #68904C !important;
 }
 
 .text-primary,
@@ -100,7 +100,7 @@
 .dropdown-primary .dropdown-menu .dropdown-item:focus,
 .candidate-list .name:hover,
 .company-list .name:hover {
-    color: #2f55d4 !important;
+    color: #68904C !important;
 }
 
 .btn-primary,
@@ -142,7 +142,7 @@
 .flatpickr-day.selected:hover,
 .swiper-slider-hero .swiper-container .swiper-button-prev:hover,
 .swiper-slider-hero .swiper-container .swiper-button-next:hover {
-    border-color: #2f55d4 !important;
+    border-color: #68904C !important;
 }
 
 .btn-primary,
@@ -192,7 +192,7 @@ a.text-primary:focus {
 }
 
 .social-icon li a:hover .fea-social {
-    fill: #2f55d4;
+    fill: #68904C;
 }
 
 .bg-overlay-gradient {
@@ -200,11 +200,11 @@ a.text-primary:focus {
 }
 
 .bg-overlay-gradient2 {
-    background-image: linear-gradient(90deg, #2eca8b, #2f55d4, #2eca8b);
+    background-image: linear-gradient(90deg, #2eca8b, #68904C, #2eca8b);
 }
 
 .gradient {
-    background: linear-gradient(45deg, #2f55d4, #2f55d4) !important;
+    background: linear-gradient(45deg, #68904C, #68904C) !important;
 }
 
 .features .image:before {
@@ -223,7 +223,7 @@ a.text-primary:focus {
 .saas-feature-shape-right:after,
 .social-feature-left:after,
 .social-feature-right:after {
-    background: rgba(47, 85, 212, 0.1);
+    background: rgba(104, 144, 76, 0.1);
 }
 
 .key-feature .icon {
@@ -236,11 +236,11 @@ a.text-primary:focus {
 
 .play-icon i,
 .play-icon i:hover {
-    -webkit-text-stroke: 2px #2f55d4;
+    -webkit-text-stroke: 2px #68904C;
 }
   
 .play-icon i:hover {
-    -webkit-text-fill-color: #2f55d4;
+    -webkit-text-fill-color: #68904C;
 }
 
 .event-schedule .date .day {
