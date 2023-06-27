@@ -133,21 +133,21 @@ export default {
       <b-carousel fade id="carousel-1" v-model="slide" class="slides">
         <b-carousel-slide
           class="bg-slider d-flex align-items-center"
-          style="background-image: url('images/fondo-principal.png')"
+          style="background-image: url('images/MaderFlex.png')"
         >
           <div class="bg-overlay"></div>
           <div class="container">
             <div class="row justify-content-center">
               <div class="col-12 text-center">
                 <div class="title-heading text-white mt-4">
-                  <h1 class="display-4 title-dark font-weight-bold mb-3">
-                    You Can Learn Anything With Us
-                  </h1>
-                  <p class="para-desc para-dark mx-auto text-light">
+                  <!-- <h1 class="display-4 title-dark font-weight-bold mb-3">
+                    MADERFLEX
+                  </h1> -->
+                  <!-- <p class="para-desc para-dark mx-auto text-light">
                     Launch your campaign and benefit from our expertise on
                     designing and managing conversion centered bootstrap4 html
                     page.
-                  </p>
+                  </p> -->
                   <!-- <div class="mt-4">
                     <a href="#courses" class="btn btn-primary mt-2 mouse-down"
                       ><i class="mdi mdi-book-open-variant"></i> Find Courses</a
@@ -162,21 +162,21 @@ export default {
         </b-carousel-slide>
         <b-carousel-slide
           class="bg-slider d-flex align-items-center"
-          style="background-image: url('images/fondo-principal-2.png')"
+          style="background-image: url('images/MaderFlex2.png')"
         >
           <div class="bg-overlay"></div>
           <div class="container">
             <div class="row justify-content-center">
               <div class="col-12 text-center">
                 <div class="title-heading text-white mt-4">
-                  <h1 class="display-4 title-dark font-weight-bold mb-3">
+                  <!-- <h1 class="display-4 title-dark font-weight-bold mb-3">
                     Better Education For A Better Future
                   </h1>
                   <p class="para-desc para-dark mx-auto text-light">
                     Launch your campaign and benefit from our expertise on
                     designing and managing conversion centered bootstrap4 html
                     page.
-                  </p>
+                  </p> -->
                   <!-- <div class="mt-4">
                     <a href="#admission" class="btn btn-primary mt-2 mouse-down"
                       ><i class="mdi mdi-school"></i> Admission Now</a
@@ -187,9 +187,9 @@ export default {
             </div>
           </div>
         </b-carousel-slide>
-        <b-carousel-slide
+        <!-- <b-carousel-slide
           class="bg-slider d-flex align-items-center"
-          style="background-image: url('images/fondo-principal-3.png')"
+          style="background-image: url('images/MaderFlex3.jpg')"
         >
           <div class="bg-overlay"></div>
           <div class="container">
@@ -204,18 +204,18 @@ export default {
                     designing and managing conversion centered bootstrap4 html
                     page.
                   </p>
-                  <!-- <div class="mt-4">
+                  <div class="mt-4">
                     <a
                       href="#instructors"
                       class="btn btn-primary mt-2 mouse-down"
                       ><i class="mdi mdi-account"></i> Instructors</a
                     >
-                  </div> -->
+                  </div>
                 </div>
               </div>
             </div>
           </div>
-        </b-carousel-slide>
+        </b-carousel-slide> -->
       </b-carousel>
     </section>
     <!--end section-->
@@ -233,53 +233,26 @@ export default {
                     class="card border-0 text-center features feature-clean course-feature p-4 overflow-hidden shadow"
                   >
                     <div class="icons text-primary text-center mx-auto">
-                      <i class="uil uil-file d-block rounded h3 mb-0"></i>
-                    </div>
-                    <div class="card-body p-0 mt-4">
-                      <a href="javascript:void(0)" class="title h5 text-dark">
-                        Unlimited Access</a
-                      >
-                      <p class="text-muted mt-2">
-                        It is a long established fact that a reader will be of a
-                        page reader will be of a page when looking at its
-                        layout.
-                      </p>
-                      <a
-                        href="javascript:void(0)"
-                        class="text-primary read-more"
-                        >Read More <i class="mdi mdi-chevron-right"></i
-                      ></a>
-                      <i class="uil uil-file text-primary full-img"></i>
-                    </div>
-                  </div>
-                </div>
-                <!--end col-->
-
-                <div class="col-md-4 mt-4 pt-2 mt-sm-0 pt-sm-0">
-                  <div
-                    class="card border-0 text-center features feature-clean course-feature p-4 overflow-hidden shadow"
-                  >
-                    <div class="icons text-primary text-center mx-auto">
                       <i
-                        class="uil uil-graduation-cap d-block rounded h3 mb-0"
+                        class="uil uil-align-justify d-block rounded h3 mb-0"
                       ></i>
                     </div>
                     <div class="card-body p-0 mt-4">
                       <a href="javascript:void(0)" class="title h5 text-dark">
-                        Our Courses</a
+                        Laminas para somieres</a
                       >
                       <p class="text-muted mt-2">
-                        It is a long established fact that a reader will be of a
-                        page when reader will be of a page looking at its
-                        layout.
+                        Laminas de calidad para somieres, las cuales se
+                        encargarán de ofrecer un reposo perfecto para tu
+                        colchón.
                       </p>
                       <a
                         href="javascript:void(0)"
                         class="text-primary read-more"
-                        >Read More <i class="mdi mdi-chevron-right"></i
+                        >Saber más<i class="mdi mdi-chevron-right"></i
                       ></a>
                       <i
-                        class="uil uil-graduation-cap text-primary full-img"
+                        class="uil uil-align-justify text-primary full-img"
                       ></i>
                     </div>
                   </div>
@@ -292,24 +265,49 @@ export default {
                   >
                     <div class="icons text-primary text-center mx-auto">
                       <i
-                        class="uil uil-book-reader d-block rounded h3 mb-0"
+                        class="uil uil-layer-group d-block rounded h3 mb-0"
                       ></i>
                     </div>
                     <div class="card-body p-0 mt-4">
                       <a href="javascript:void(0)" class="title h5 text-dark">
-                        Expert Teachers</a
+                        Chapas de madera</a
                       >
                       <p class="text-muted mt-2">
-                        It is a long established fact that a reader will be of a
-                        page when reader will be of a page looking at its
-                        layout.
+                        Gran variedad de chapas de madera de distintos tipos
+                        como haya, abedul y chopo.
                       </p>
                       <a
                         href="javascript:void(0)"
                         class="text-primary read-more"
-                        >Read More <i class="mdi mdi-chevron-right"></i
+                        >Saber más<i class="mdi mdi-chevron-right"></i
                       ></a>
-                      <i class="uil uil-book-reader text-primary full-img"></i>
+                      <i class="uil uil-layer-group text-primary full-img"></i>
+                    </div>
+                  </div>
+                </div>
+                <!--end col-->
+
+                <div class="col-md-4 mt-4 pt-2 mt-sm-0 pt-sm-0">
+                  <div
+                    class="card border-0 text-center features feature-clean course-feature p-4 overflow-hidden shadow"
+                  >
+                    <div class="icons text-primary text-center mx-auto">
+                      <i class="uil uil-bed d-block rounded h3 mb-0"></i>
+                    </div>
+                    <div class="card-body p-0 mt-4">
+                      <a href="javascript:void(0)" class="title h5 text-dark">
+                        Patas de metal</a
+                      >
+                      <p class="text-muted mt-2">
+                        Patas de hierro resistentes y ajustables, de varias
+                        medidas para un mayor confort.
+                      </p>
+                      <a
+                        href="javascript:void(0)"
+                        class="text-primary read-more"
+                        >Saber más<i class="mdi mdi-chevron-right"></i
+                      ></a>
+                      <i class="uil uil-bed text-primary full-img"></i>
                     </div>
                   </div>
                 </div>
@@ -333,7 +331,7 @@ export default {
         <div class="row align-items-center">
           <div class="col-lg-5 col-md-6 col-12">
             <img
-              src="images/course/about.jpg"
+              src="images/principal/mock_mf.png"
               class="img-fluid shadow rounded"
               alt=""
             />
@@ -342,44 +340,36 @@ export default {
 
           <div class="col-lg-7 col-md-6 col-12 mt-4 mt-sm-0 pt-2 pt-sm-0">
             <div class="section-title ml-lg-4">
-              <h4 class="title mb-4">
-                Our Story : <span class="text-primary">Landrick Education</span>
-              </h4>
+              <h2 class="title mb-4">
+                <span class="text-primary">Nuestra Historia</span>
+              </h2>
               <p class="text-muted">
-                Start Course with
-                <span class="text-primary font-weight-bold"
-                  >Landrick Education</span
-                >
-                that can provide everything you need to generate awareness,
-                drive traffic, connect. Dummy text is text that is used in the
-                publishing industry or by web designers to occupy the space
-                which will later be filled with 'real' content. This is required
-                when, for example, the final text is not yet available. Dummy
-                texts have been in use by typesetters since the 16th century.
+                Nuestra empresa siempre está en desarrollo continuo, a través de
+                la implementación de tecnologías modernas y una estrategia de
+                marketing dinámica, lo que permite la expansión de las
+                capacidades de producción y oferta.
               </p>
-              <ul class="list-unstyled mb-0 text-muted">
-                <li>
-                  <chevron-right-icon
-                    class="fea icon-sm text-success mr-2"
-                  ></chevron-right-icon
-                  >Digital Marketing Solutions for Tomorrow
-                </li>
-                <li>
-                  <chevron-right-icon
-                    class="fea icon-sm text-success mr-2"
-                  ></chevron-right-icon
-                  >Our Talented & Experienced Marketing Agency
-                </li>
-                <li>
-                  <chevron-right-icon
-                    class="fea icon-sm text-success mr-2"
-                  ></chevron-right-icon
-                  >Create your own skin to match your brand
-                </li>
-              </ul>
-              <a href="javascript:void(0)" class="btn btn-outline-primary mt-3"
+              <p class="text-muted">
+                En el período inicial de actividad,
+                <span class="text-primary font-weight-bold">Maderflex</span>
+                se centró exclusivamente en la exportación, pero la oportunidad
+                de participar como expositor en la Feria Internacional Furnica
+                en 2008 y 2009, dirigida, entre otros, a fabricantes de
+                componentes para muebles, creó una excelente oportunidad para
+                aparecer en el mercado interno Este paso estratégico ha
+                contribuido a la adquisición de muchos nuevos clientes y al
+                establecimiento de una cooperación a largo plazo con muchas
+                empresas, que continuamos con éxito hasta el día de hoy.
+              </p>
+              <p class="text-muted">
+                Desde entonces, participamos regularmente en ferias de la
+                industria del mueble tanto en Polonia como en toda Europa
+                porque, como especialistas, nos aseguramos de estar siempre al
+                día con las tendencias y eventos actuales.
+              </p>
+              <!-- <a href="javascript:void(0)" class="btn btn-outline-primary mt-3"
                 >Admission Now</a
-              >
+              > -->
             </div>
           </div>
           <!--end col-->
@@ -391,897 +381,187 @@ export default {
     <!--end section-->
     <!-- About End -->
 
-    <!-- Cta Start -->
-    <section
-      class="section bg-cta"
-      style="background: url('images/course/bg02.jpg') center center"
-      id="cta"
-    >
-      <div class="bg-overlay"></div>
-      <div class="container">
-        <div class="row justify-content-center">
-          <div class="col-12 text-center">
-            <div class="section-title">
-              <h4 class="title title-dark text-white mb-4">
-                We Bring New Online Courses
-              </h4>
-              <p class="text-light para-desc para-dark mx-auto">
-                Start working with Landrick that can provide everything you need
-                to generate awareness, drive traffic, connect.
-              </p>
-              <a
-                href="javascript: void(0);"
-                v-b-modal.modal-1
-                class="play-btn border border-light mt-4 video-play-icon"
+    <!-- Start CTA -->
+    <div class="container-fluid mt-60">
+      <div
+        class="rounded py-5"
+        style="background: url('images/principal/laminas.png') fixed"
+      >
+        <div class="container">
+          <div class="row">
+            <div class="col-12">
+              <div class="section-title">
+                <h2 class="font-weight-bold mb-4">
+                  Ofrecemos
+                  <span class="text-primary font-weight-bold"
+                    >chapas de haya</span
+                  >
+                  y<br />
+                  de madera contrachapada.
+                </h2>
+                <p class="para-desc para-white mb-0">
+                  Además del producto,
+                  <span class="text-primary font-weight-bold">Maderflex</span>
+                  también ofrece soporte técnico constante, consultas y
+                  asistencia en la solución de problemas. Al proporcionar
+                  servicios integrales, todavía atrae a nuevos clientes.
+                </p>
+                <div class="mt-4">
+                  <a href="javascript:void(0)" class="btn btn-primary"
+                    >Saber más</a
+                  >
+                </div>
+              </div>
+            </div>
+            <!--end col-->
+          </div>
+          <!--end row-->
+        </div>
+        <!--end container-->
+      </div>
+    </div>
+    <!--end container-->
+    <!-- End CTA -->
+
+    <!-- About Start -->
+    <div class="container mt-100 mt-60">
+      <div class="row align-items-center">
+        <div class="col-lg-6 col-md-6">
+          <div class="row align-items-center">
+            <div class="col-lg-6 col-6 mt-4 mt-lg-0 pt-2 pt-lg-0">
+              <div
+                class="card work-container work-modern overflow-hidden rounded border-0 shadow-md"
               >
-                <play-icon
-                  class="fea icon-ex-md text-white title-dark"
-                ></play-icon>
-              </a>
-              <b-modal
-                id="modal-1"
-                hide-footer
-                size="lg"
-                header-close-variant="white"
-                header-class="border-0"
-                content-class="border-0"
-                centered
-              >
-                <vimeo-player
-                  ref="player"
-                  :player-width="750"
-                  :player-height="450"
-                  :video-id="12022651"
-                />
-              </b-modal>
-            </div>
-          </div>
-          <!--end col-->
-        </div>
-        <!--end row-->
-      </div>
-      <!--end container-->
-    </section>
-    <!--end section-->
-    <!-- Cta End -->
-
-    <!-- Courses Start -->
-    <section class="section" id="courses">
-      <div class="container">
-        <div class="row justify-content-center">
-          <div class="col-12 text-center">
-            <div class="section-title mb-4 pb-2">
-              <h4 class="title mb-4">Explore Popular Courses</h4>
-              <p class="text-muted para-desc mx-auto mb-0">
-                Start working with
-                <span class="text-primary font-weight-bold">Landrick</span> that
-                can provide everything you need to generate awareness, drive
-                traffic, connect.
-              </p>
-            </div>
-          </div>
-          <!--end col-->
-        </div>
-        <!--end row-->
-
-        <div class="row">
-          <div class="col-lg-4 col-md-6 col-12 mt-4 pt-2">
-            <div
-              class="card courses-desc overflow-hidden rounded shadow border-0"
-            >
-              <div class="position-relative d-block overflow-hidden">
-                <img
-                  src="images/course/1.jpg"
-                  class="img-fluid rounded-top mx-auto"
-                  alt=""
-                />
-                <div class="overlay-work bg-dark"></div>
-                <a href="javascript:void(0)" class="text-white h6 preview"
-                  >Preview Now <i class="mdi mdi-chevron-right"></i
-                ></a>
-              </div>
-
-              <div class="card-body">
-                <h5>
-                  <a href="javascript:void(0)" class="title text-dark"
-                    >Program for Missionaries</a
-                  >
-                </h5>
-                <div class="rating">
-                  <ul class="list-unstyled mb-0">
-                    <li class="list-inline-item">
-                      <i class="mdi mdi-star h5 mb-0 text-warning"></i>
-                    </li>
-                    <li class="list-inline-item">
-                      <i class="mdi mdi-star h5 mb-0 text-warning"></i>
-                    </li>
-                    <li class="list-inline-item">
-                      <i class="mdi mdi-star h5 mb-0 text-warning"></i>
-                    </li>
-                    <li class="list-inline-item">
-                      <i class="mdi mdi-star h5 mb-0 text-warning"></i>
-                    </li>
-                    <li class="list-inline-item">
-                      <i class="mdi mdi-star h5 mb-0 text-warning"></i>
-                    </li>
-                    <li class="list-inline-item">
-                      5 Star (3<i class="mdi mdi-account text-muted"></i>)
-                    </li>
-                  </ul>
-                </div>
-                <div class="fees d-flex justify-content-between">
-                  <ul class="list-unstyled mb-0 numbers">
-                    <li>
-                      <i class="mdi mdi-school text-muted"></i> 30 Students
-                    </li>
-                    <li><i class="mdi mdi-book text-muted"></i> 5 Lession</li>
-                  </ul>
-                  <h4><span class="h6">$</span>75</h4>
-                </div>
-              </div>
-            </div>
-          </div>
-          <!--end col-->
-
-          <div class="col-lg-4 col-md-6 col-12 mt-4 pt-2">
-            <div
-              class="card courses-desc overflow-hidden rounded shadow border-0"
-            >
-              <div class="position-relative d-block overflow-hidden">
-                <img
-                  src="images/course/2.jpg"
-                  class="img-fluid rounded-top mx-auto"
-                  alt=""
-                />
-                <div class="overlay-work bg-dark"></div>
-                <a href="javascript:void(0)" class="text-white h6 preview"
-                  >Preview Now <i class="mdi mdi-chevron-right"></i
-                ></a>
-              </div>
-
-              <div class="card-body">
-                <h5>
-                  <a href="javascript:void(0)" class="title text-dark"
-                    >Access to Higher Education</a
-                  >
-                </h5>
-                <div class="rating">
-                  <ul class="list-unstyled mb-0">
-                    <li class="list-inline-item">
-                      <i class="mdi mdi-star h5 mb-0 text-warning"></i>
-                    </li>
-                    <li class="list-inline-item">
-                      <i class="mdi mdi-star h5 mb-0 text-warning"></i>
-                    </li>
-                    <li class="list-inline-item">
-                      <i class="mdi mdi-star h5 mb-0 text-warning"></i>
-                    </li>
-                    <li class="list-inline-item">
-                      <i class="mdi mdi-star h5 mb-0 text-warning"></i>
-                    </li>
-                    <li class="list-inline-item">
-                      <i class="mdi mdi-star-outline h5 mb-0 text-warning"></i>
-                    </li>
-                    <li class="list-inline-item">
-                      3.99 Star (11<i class="mdi mdi-account text-muted"></i>)
-                    </li>
-                  </ul>
-                </div>
-                <div class="fees d-flex justify-content-between">
-                  <ul class="list-unstyled mb-0 numbers">
-                    <li>
-                      <i class="mdi mdi-school text-muted"></i> 30 Students
-                    </li>
-                    <li><i class="mdi mdi-book text-muted"></i> 5 Lession</li>
-                  </ul>
-                  <h4><span class="h6">$</span>150</h4>
-                </div>
-              </div>
-            </div>
-          </div>
-          <!--end col-->
-
-          <div class="col-lg-4 col-md-6 col-12 mt-4 pt-2">
-            <div
-              class="card courses-desc overflow-hidden rounded shadow border-0"
-            >
-              <div class="position-relative d-block overflow-hidden">
-                <img
-                  src="images/course/3.jpg"
-                  class="img-fluid rounded-top mx-auto"
-                  alt=""
-                />
-                <div class="overlay-work bg-dark"></div>
-                <a href="javascript:void(0)" class="text-white h6 preview"
-                  >Preview Now <i class="mdi mdi-chevron-right"></i
-                ></a>
-              </div>
-
-              <div class="card-body">
-                <h5>
-                  <a href="javascript:void(0)" class="title text-dark"
-                    >Course in TEFL Teacher Training</a
-                  >
-                </h5>
-                <div class="rating">
-                  <ul class="list-unstyled mb-0">
-                    <li class="list-inline-item">
-                      <i class="mdi mdi-star h5 mb-0 text-warning"></i>
-                    </li>
-                    <li class="list-inline-item">
-                      <i class="mdi mdi-star h5 mb-0 text-warning"></i>
-                    </li>
-                    <li class="list-inline-item">
-                      <i class="mdi mdi-star h5 mb-0 text-warning"></i>
-                    </li>
-                    <li class="list-inline-item">
-                      <i class="mdi mdi-star h5 mb-0 text-warning"></i>
-                    </li>
-                    <li class="list-inline-item">
-                      <i class="mdi mdi-star-half h5 mb-0 text-warning"></i>
-                    </li>
-                    <li class="list-inline-item">
-                      4.7 Star (9<i class="mdi mdi-account text-muted"></i>)
-                    </li>
-                  </ul>
-                </div>
-                <div class="fees d-flex justify-content-between">
-                  <ul class="list-unstyled mb-0 numbers">
-                    <li>
-                      <i class="mdi mdi-school text-muted"></i> 30 Students
-                    </li>
-                    <li><i class="mdi mdi-book text-muted"></i> 5 Lession</li>
-                  </ul>
-                  <h4><span class="h6">$</span>175</h4>
-                </div>
-              </div>
-            </div>
-          </div>
-          <!--end col-->
-
-          <div class="col-lg-4 col-md-6 col-12 mt-4 pt-2">
-            <div
-              class="card courses-desc overflow-hidden rounded shadow border-0"
-            >
-              <div class="position-relative d-block overflow-hidden">
-                <img
-                  src="images/course/4.jpg"
-                  class="img-fluid rounded-top mx-auto"
-                  alt=""
-                />
-                <div class="overlay-work bg-dark"></div>
-                <a href="javascript:void(0)" class="text-white h6 preview"
-                  >Preview Now <i class="mdi mdi-chevron-right"></i
-                ></a>
-              </div>
-
-              <div class="card-body">
-                <h5>
-                  <a href="javascript:void(0)" class="title text-dark"
-                    >Educational Communication</a
-                  >
-                </h5>
-                <div class="rating">
-                  <ul class="list-unstyled mb-0">
-                    <li class="list-inline-item">
-                      <i class="mdi mdi-star h5 mb-0 text-warning"></i>
-                    </li>
-                    <li class="list-inline-item">
-                      <i class="mdi mdi-star h5 mb-0 text-warning"></i>
-                    </li>
-                    <li class="list-inline-item">
-                      <i class="mdi mdi-star h5 mb-0 text-warning"></i>
-                    </li>
-                    <li class="list-inline-item">
-                      <i class="mdi mdi-star h5 mb-0 text-warning"></i>
-                    </li>
-                    <li class="list-inline-item">
-                      <i class="mdi mdi-star h5 mb-0 text-warning"></i>
-                    </li>
-                    <li class="list-inline-item">
-                      5 Star (3<i class="mdi mdi-account text-muted"></i>)
-                    </li>
-                  </ul>
-                </div>
-                <div class="fees d-flex justify-content-between">
-                  <ul class="list-unstyled mb-0 numbers">
-                    <li>
-                      <i class="mdi mdi-school text-muted"></i> 30 Students
-                    </li>
-                    <li><i class="mdi mdi-book text-muted"></i> 5 Lession</li>
-                  </ul>
-                  <h4><span class="h6">$</span>22</h4>
-                </div>
-              </div>
-            </div>
-          </div>
-          <!--end col-->
-
-          <div class="col-lg-4 col-md-6 col-12 mt-4 pt-2">
-            <div
-              class="card courses-desc overflow-hidden rounded shadow border-0"
-            >
-              <div class="position-relative d-block overflow-hidden">
-                <img
-                  src="images/course/5.jpg"
-                  class="img-fluid rounded-top mx-auto"
-                  alt=""
-                />
-                <div class="overlay-work bg-dark"></div>
-                <a href="javascript:void(0)" class="text-white h6 preview"
-                  >Preview Now <i class="mdi mdi-chevron-right"></i
-                ></a>
-              </div>
-
-              <div class="card-body">
-                <h5>
-                  <a href="javascript:void(0)" class="title text-dark"
-                    >Introduction to Epidemiology</a
-                  >
-                </h5>
-                <div class="rating">
-                  <ul class="list-unstyled mb-0">
-                    <li class="list-inline-item">
-                      <i class="mdi mdi-star h5 mb-0 text-warning"></i>
-                    </li>
-                    <li class="list-inline-item">
-                      <i class="mdi mdi-star h5 mb-0 text-warning"></i>
-                    </li>
-                    <li class="list-inline-item">
-                      <i class="mdi mdi-star h5 mb-0 text-warning"></i>
-                    </li>
-                    <li class="list-inline-item">
-                      <i class="mdi mdi-star h5 mb-0 text-warning"></i>
-                    </li>
-                    <li class="list-inline-item">
-                      <i class="mdi mdi-star h5 mb-0 text-warning"></i>
-                    </li>
-                    <li class="list-inline-item">
-                      5 Star (3<i class="mdi mdi-account text-muted"></i>)
-                    </li>
-                  </ul>
-                </div>
-                <div class="fees d-flex justify-content-between">
-                  <ul class="list-unstyled mb-0 numbers">
-                    <li>
-                      <i class="mdi mdi-school text-muted"></i> 30 Students
-                    </li>
-                    <li><i class="mdi mdi-book text-muted"></i> 5 Lession</li>
-                  </ul>
-                  <h4><span class="h6">$</span>100</h4>
-                </div>
-              </div>
-            </div>
-          </div>
-          <!--end col-->
-
-          <div class="col-lg-4 col-md-6 col-12 mt-4 pt-2">
-            <div
-              class="card courses-desc overflow-hidden rounded shadow border-0"
-            >
-              <div class="position-relative d-block overflow-hidden">
-                <img
-                  src="images/course/6.jpg"
-                  class="img-fluid rounded-top mx-auto"
-                  alt=""
-                />
-                <div class="overlay-work bg-dark"></div>
-                <a href="javascript:void(0)" class="text-white h6 preview"
-                  >Preview Now <i class="mdi mdi-chevron-right"></i
-                ></a>
-              </div>
-
-              <div class="card-body">
-                <h5>
-                  <a href="javascript:void(0)" class="title text-dark"
-                    >Good Clinical Practice</a
-                  >
-                </h5>
-                <div class="rating">
-                  <ul class="list-unstyled mb-0">
-                    <li class="list-inline-item">
-                      <i class="mdi mdi-star h5 mb-0 text-warning"></i>
-                    </li>
-                    <li class="list-inline-item">
-                      <i class="mdi mdi-star h5 mb-0 text-warning"></i>
-                    </li>
-                    <li class="list-inline-item">
-                      <i class="mdi mdi-star h5 mb-0 text-warning"></i>
-                    </li>
-                    <li class="list-inline-item">
-                      <i class="mdi mdi-star h5 mb-0 text-warning"></i>
-                    </li>
-                    <li class="list-inline-item">
-                      <i class="mdi mdi-star-outline h5 mb-0 text-warning"></i>
-                    </li>
-                    <li class="list-inline-item">
-                      4 Star (2<i class="mdi mdi-account text-muted"></i>)
-                    </li>
-                  </ul>
-                </div>
-                <div class="fees d-flex justify-content-between">
-                  <ul class="list-unstyled mb-0 numbers">
-                    <li>
-                      <i class="mdi mdi-school text-muted"></i> 30 Students
-                    </li>
-                    <li><i class="mdi mdi-book text-muted"></i> 5 Lession</li>
-                  </ul>
-                  <h4><span class="h6">$</span>110</h4>
-                </div>
-              </div>
-            </div>
-          </div>
-          <!--end col-->
-
-          <div class="col-lg-4 col-md-6 col-12 mt-4 pt-2">
-            <div
-              class="card courses-desc overflow-hidden rounded shadow border-0"
-            >
-              <div class="position-relative d-block overflow-hidden">
-                <img
-                  src="images/course/7.jpg"
-                  class="img-fluid rounded-top mx-auto"
-                  alt=""
-                />
-                <div class="overlay-work bg-dark"></div>
-                <a href="javascript:void(0)" class="text-white h6 preview"
-                  >Preview Now <i class="mdi mdi-chevron-right"></i
-                ></a>
-              </div>
-
-              <div class="card-body">
-                <h5>
-                  <a href="javascript:void(0)" class="title text-dark"
-                    >Advanced Diagnostic Research</a
-                  >
-                </h5>
-                <div class="rating">
-                  <ul class="list-unstyled mb-0">
-                    <li class="list-inline-item">
-                      <i class="mdi mdi-star h5 mb-0 text-warning"></i>
-                    </li>
-                    <li class="list-inline-item">
-                      <i class="mdi mdi-star h5 mb-0 text-warning"></i>
-                    </li>
-                    <li class="list-inline-item">
-                      <i class="mdi mdi-star h5 mb-0 text-warning"></i>
-                    </li>
-                    <li class="list-inline-item">
-                      <i class="mdi mdi-star h5 mb-0 text-warning"></i>
-                    </li>
-                    <li class="list-inline-item">
-                      <i class="mdi mdi-star-half h5 mb-0 text-warning"></i>
-                    </li>
-                    <li class="list-inline-item">
-                      4.5 Star (8<i class="mdi mdi-account text-muted"></i>)
-                    </li>
-                  </ul>
-                </div>
-                <div class="fees d-flex justify-content-between">
-                  <ul class="list-unstyled mb-0 numbers">
-                    <li>
-                      <i class="mdi mdi-school text-muted"></i> 30 Students
-                    </li>
-                    <li><i class="mdi mdi-book text-muted"></i> 5 Lession</li>
-                  </ul>
-                  <h4><span class="h6">$</span>149</h4>
-                </div>
-              </div>
-            </div>
-          </div>
-          <!--end col-->
-
-          <div class="col-lg-4 col-md-6 col-12 mt-4 pt-2">
-            <div
-              class="card courses-desc overflow-hidden rounded shadow border-0"
-            >
-              <div class="position-relative d-block overflow-hidden">
-                <img
-                  src="images/course/8.jpg"
-                  class="img-fluid rounded-top mx-auto"
-                  alt=""
-                />
-                <div class="overlay-work bg-dark"></div>
-                <a href="javascript:void(0)" class="text-white h6 preview"
-                  >Preview Now <i class="mdi mdi-chevron-right"></i
-                ></a>
-              </div>
-
-              <div class="card-body">
-                <h5>
-                  <a href="javascript:void(0)" class="title text-dark"
-                    >Skills Development Facilitation</a
-                  >
-                </h5>
-                <div class="rating">
-                  <ul class="list-unstyled mb-0">
-                    <li class="list-inline-item">
-                      <i class="mdi mdi-star h5 mb-0 text-warning"></i>
-                    </li>
-                    <li class="list-inline-item">
-                      <i class="mdi mdi-star h5 mb-0 text-warning"></i>
-                    </li>
-                    <li class="list-inline-item">
-                      <i class="mdi mdi-star h5 mb-0 text-warning"></i>
-                    </li>
-                    <li class="list-inline-item">
-                      <i class="mdi mdi-star h5 mb-0 text-warning"></i>
-                    </li>
-                    <li class="list-inline-item">
-                      <i class="mdi mdi-star h5 mb-0 text-warning"></i>
-                    </li>
-                    <li class="list-inline-item">
-                      5 Star (3<i class="mdi mdi-account text-muted"></i>)
-                    </li>
-                  </ul>
-                </div>
-                <div class="fees d-flex justify-content-between">
-                  <ul class="list-unstyled mb-0 numbers">
-                    <li>
-                      <i class="mdi mdi-school text-muted"></i> 30 Students
-                    </li>
-                    <li><i class="mdi mdi-book text-muted"></i> 5 Lession</li>
-                  </ul>
-                  <h4><span class="h6">$</span>135</h4>
-                </div>
-              </div>
-            </div>
-          </div>
-          <!--end col-->
-
-          <div class="col-lg-4 col-md-6 col-12 mt-4 pt-2">
-            <div
-              class="card courses-desc overflow-hidden rounded shadow border-0"
-            >
-              <div class="position-relative d-block overflow-hidden">
-                <img
-                  src="images/course/9.jpg"
-                  class="img-fluid rounded-top mx-auto"
-                  alt=""
-                />
-                <div class="overlay-work bg-dark"></div>
-                <a href="javascript:void(0)" class="text-white h6 preview"
-                  >Preview Now <i class="mdi mdi-chevron-right"></i
-                ></a>
-              </div>
-
-              <div class="card-body">
-                <h5>
-                  <a href="javascript:void(0)" class="title text-dark"
-                    >PGCE Primary</a
-                  >
-                </h5>
-                <div class="rating">
-                  <ul class="list-unstyled mb-0">
-                    <li class="list-inline-item">
-                      <i class="mdi mdi-star h5 mb-0 text-warning"></i>
-                    </li>
-                    <li class="list-inline-item">
-                      <i class="mdi mdi-star h5 mb-0 text-warning"></i>
-                    </li>
-                    <li class="list-inline-item">
-                      <i class="mdi mdi-star h5 mb-0 text-warning"></i>
-                    </li>
-                    <li class="list-inline-item">
-                      <i class="mdi mdi-star h5 mb-0 text-warning"></i>
-                    </li>
-                    <li class="list-inline-item">
-                      <i class="mdi mdi-star h5 mb-0 text-warning"></i>
-                    </li>
-                    <li class="list-inline-item">
-                      5 Star (3<i class="mdi mdi-account text-muted"></i>)
-                    </li>
-                  </ul>
-                </div>
-                <div class="fees d-flex justify-content-between">
-                  <ul class="list-unstyled mb-0 numbers">
-                    <li>
-                      <i class="mdi mdi-school text-muted"></i> 30 Students
-                    </li>
-                    <li><i class="mdi mdi-book text-muted"></i> 5 Lession</li>
-                  </ul>
-                  <h4><span class="h6">$</span>55</h4>
-                </div>
-              </div>
-            </div>
-          </div>
-          <!--end col-->
-
-          <div class="col-12 mt-4 pt-2 text-center">
-            <a href="javascript:void(0)" class="btn btn-primary"
-              >See More Courses <i class="mdi mdi-chevron-right"></i
-            ></a>
-          </div>
-        </div>
-        <!--end row-->
-      </div>
-      <!--end container-->
-
-      <div class="container mt-100 mt-60" id="instructors">
-        <div class="row justify-content-center">
-          <div class="col-12 text-center">
-            <div class="section-title mb-4 pb-2">
-              <h4 class="title mb-4">Instructors</h4>
-              <p class="text-muted para-desc mx-auto mb-0">
-                Start working with
-                <span class="text-primary font-weight-bold">Landrick</span> that
-                can provide everything you need to generate awareness, drive
-                traffic, connect.
-              </p>
-            </div>
-          </div>
-          <!--end col-->
-        </div>
-        <!--end row-->
-
-        <Team :team-data="teamData" />
-      </div>
-      <!--end container-->
-    </section>
-    <!--end section-->
-    <!-- Courses End -->
-
-    <!-- Cta Start -->
-    <section
-      class="section bg-cta"
-      style="background: url('images/course/bg03.jpg') center center"
-      id="admission"
-    >
-      <div class="bg-overlay"></div>
-      <div class="container">
-        <div class="row align-items-center">
-          <div class="col-lg-8 col-md-7 col-12">
-            <div class="section-title">
-              <h4 class="title title-dark text-white mb-4">Admission Now</h4>
-              <p class="para-desc para-dark mb-0 text-light">
-                Launch your campaign and benefit from our expertise on designing
-                and managing conversion centered bootstrap4 html page.
-              </p>
-            </div>
-            <div class="row" id="counter">
-              <div class="col-md-3 col-6 mt-4 pt-2">
-                <div class="counter-box">
-                  <i
-                    class="mdi mdi-school-outline title-dark text-light h1"
-                  ></i>
-                  <h2 class="mb-0 text-white title-dark mt-2">
-                    <countTo
-                      :startVal="3"
-                      :duration="4000"
-                      :endVal="25"
-                    ></countTo
-                    >K
-                  </h2>
-                  <h6 class="counter-head title-dark text-light">Students</h6>
-                </div>
-                <!--end counter box-->
-              </div>
-              <!--end col-->
-
-              <div class="col-md-3 col-6 mt-4 pt-2">
-                <div class="counter-box">
-                  <i
-                    class="mdi mdi-book-open-variant title-dark text-light h1"
-                  ></i>
-                  <h2 class="mb-0 text-white title-dark mt-2">
-                    <countTo
-                      :startVal="1"
-                      :duration="4000"
-                      :endVal="70"
-                    ></countTo
-                    >+
-                  </h2>
-                  <h6 class="counter-head title-dark text-light">Courses</h6>
-                </div>
-                <!--end counter box-->
-              </div>
-              <!--end col-->
-
-              <div class="col-md-3 col-6 mt-4 pt-2">
-                <div class="counter-box">
-                  <i class="mdi mdi-account title-dark text-light h1"></i>
-                  <h2 class="mb-0 text-white title-dark mt-2">
-                    <countTo
-                      :startVal="0"
-                      :duration="4000"
-                      :endVal="55"
-                    ></countTo
-                    >+
-                  </h2>
-                  <h6 class="counter-head title-dark text-light">
-                    Instructors
-                  </h6>
-                </div>
-                <!--end counter box-->
-              </div>
-              <!--end col-->
-
-              <div class="col-md-3 col-6 mt-4 pt-2">
-                <div class="counter-box">
-                  <i
-                    class="mdi mdi-language-swift title-dark text-light h1"
-                  ></i>
-                  <h2 class="mb-0 text-white title-dark mt-2">
-                    <countTo
-                      :startVal="3"
-                      :duration="4000"
-                      :endVal="25"
-                    ></countTo
-                    >+
-                  </h2>
-                  <h6 class="counter-head title-dark text-light">Languages</h6>
-                </div>
-                <!--end counter box-->
-              </div>
-              <!--end col-->
-            </div>
-            <!--end row-->
-          </div>
-          <!--end col-->
-
-          <div class="col-lg-4 col-md-5 col-12 mt-4 mt-sm-0 pt-2 pt-sm-0">
-            <div class="card border-0 rounded">
-              <div class="card-body">
-                <form>
-                  <h4>7 Days Free Trial</h4>
-                  <div class="row">
-                    <div class="col-lg-12">
-                      <div class="form-group">
-                        <label>Name : <span class="text-danger">*</span></label>
-                        <div class="position-relative">
-                          <user-icon class="fea icon-sm icons"></user-icon>
-                          <input
-                            type="text"
-                            class="form-control pl-5"
-                            placeholder="Name"
-                            name="name"
-                            required=""
-                          />
-                        </div>
-                      </div>
-                    </div>
-                    <!--end col-->
-
-                    <div class="col-lg-12">
-                      <div class="form-group">
-                        <label
-                          >Email : <span class="text-danger">*</span></label
-                        >
-                        <div class="position-relative">
-                          <mail-icon class="fea icon-sm icons"></mail-icon>
-                          <input
-                            type="email"
-                            class="form-control pl-5"
-                            placeholder="Email"
-                            name="email"
-                            required=""
-                          />
-                        </div>
-                      </div>
-                    </div>
-                    <!--end col-->
-
-                    <div class="col-lg-12">
-                      <div class="form-group">
-                        <label
-                          >Phone : <span class="text-danger">*</span></label
-                        >
-                        <div class="position-relative">
-                          <phone-icon class="fea icon-sm icons"></phone-icon>
-                          <input
-                            type="number"
-                            id="number"
-                            class="form-control pl-5"
-                            placeholder="phone"
-                            required=""
-                          />
-                        </div>
-                      </div>
-                    </div>
-                    <!--end col-->
-
-                    <div class="col-lg-12 mt-2 mb-0">
-                      <button class="btn btn-primary btn-block">
-                        Register Now
-                      </button>
-                    </div>
-                    <!--end col-->
-                  </div>
-                </form>
-              </div>
-            </div>
-          </div>
-          <!--end col-->
-        </div>
-        <!--end row-->
-      </div>
-      <!--end container-->
-    </section>
-    <!--end section-->
-    <!-- Cta End -->
-
-    <!-- Testi Subscribe Start -->
-    <section class="section">
-      <div class="container">
-        <div class="row justify-content-center">
-          <div class="col-12 text-center">
-            <div class="section-title mb-4 pb-2">
-              <h4 class="title mb-4">What Students Say ?</h4>
-              <p class="text-muted para-desc mx-auto mb-0">
-                Start working with
-                <span class="text-primary font-weight-bold">Landrick</span> that
-                can provide everything you need to generate awareness, drive
-                traffic, connect.
-              </p>
-            </div>
-          </div>
-          <!--end col-->
-        </div>
-        <!--end row-->
-
-        <div class="row justify-content-center">
-          <div class="col-lg-12 mt-4">
-            <Testimonial :testimonialData="testimonialData" />
-          </div>
-          <!--end col-->
-        </div>
-        <!--end row-->
-      </div>
-      <!--end container-->
-
-      <div class="container mt-100 mt-60">
-        <div class="row justify-content-center">
-          <div class="col-12 text-center">
-            <div class="section-title mb-4 pb-2">
-              <h4 class="title mb-4">Sign up for our Newsletter</h4>
-              <p class="text-muted para-desc mx-auto mb-0">
-                Start working with
-                <span class="text-primary font-weight-bold">Landrick</span> that
-                can provide everything you need to generate awareness, drive
-                traffic, connect.
-              </p>
-            </div>
-          </div>
-          <!--end col-->
-        </div>
-        <!--end row-->
-
-        <div class="row justify-content-center mt-4 pt-2">
-          <div class="col-lg-7 col-md-10">
-            <form>
-              <div class="form-group">
-                <div class="input-group mb-3">
-                  <input
-                    name="email"
-                    id="email"
-                    type="email"
-                    class="form-control"
-                    placeholder="Your email :"
-                    required
-                    aria-describedby="newssubscribebtn"
+                <div class="card-body p-0">
+                  <img
+                    src="images/course/online/ab01.jpg"
+                    class="img-fluid"
+                    alt="work-image"
                   />
-                  <div class="input-group-append">
-                    <button
-                      class="btn btn-primary submitBnt"
-                      type="submit"
-                      id="newssubscribebtn"
+                  <div class="overlay-work bg-dark"></div>
+                  <div class="content">
+                    <a
+                      href="javascript:void(0)"
+                      class="title text-white d-block font-weight-bold"
+                      >Web Development</a
                     >
-                      Subscribe
-                    </button>
+                    <small class="text-light">IT & Software</small>
                   </div>
                 </div>
               </div>
-            </form>
-            <!--end form-->
+            </div>
+            <!--end col-->
+
+            <div class="col-lg-6 col-6">
+              <div class="row">
+                <div class="col-lg-12 col-md-12 mt-4 mt-lg-0 pt-2 pt-lg-0">
+                  <div
+                    class="card work-container work-modern overflow-hidden rounded border-0 shadow-md"
+                  >
+                    <div class="card-body p-0">
+                      <img
+                        src="images/course/online/ab02.jpg"
+                        class="img-fluid"
+                        alt="work-image"
+                      />
+                      <div class="overlay-work bg-dark"></div>
+                      <div class="content">
+                        <a
+                          href="javascript:void(0)"
+                          class="title text-white d-block font-weight-bold"
+                          >Michanical Engineer</a
+                        >
+                        <small class="text-light">Engineering</small>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <!--end col-->
+
+                <div class="col-lg-12 col-md-12 mt-4 pt-2">
+                  <div
+                    class="card work-container work-modern overflow-hidden rounded border-0 shadow-md"
+                  >
+                    <div class="card-body p-0">
+                      <img
+                        src="images/course/online/ab03.jpg"
+                        class="img-fluid"
+                        alt="work-image"
+                      />
+                      <div class="overlay-work bg-dark"></div>
+                      <div class="content">
+                        <a
+                          href="javascript:void(0)"
+                          class="title text-white d-block font-weight-bold"
+                          >Chartered Accountant</a
+                        >
+                        <small class="text-light">C.A.</small>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <!--end col-->
+              </div>
+              <!--end row-->
+            </div>
+            <!--end col-->
           </div>
-          <!--end col-->
+          <!--end row-->
         </div>
-        <!--end row-->
+        <!--end col-->
+
+        <div class="col-lg-6 col-md-6 mt-4 mt-lg-0 pt- pt-lg-0">
+          <div class="ml-lg-4">
+            <div class="section-title mb-4 pb-2">
+              <h4 class="title mb-4">Chapa de haya cortada perifericamente</h4>
+              <p class="text-muted para-desc">
+                Las chapas que ofrecemos se obtienen a partir de madera de haya
+                de origen nacional y extranjero.
+              </p>
+              <p class="text-muted para-desc mb-3">
+                Nuestra oferta también incluye productos con la marca FSC®, lo
+                que significa que la madera obtenida para su producción proviene
+                de bosques certificados FSC y otras fuentes controladas.
+              </p>
+              <p class="text-muted para-desc mb-0">
+                Las molduras se fabrican por encargo, por lo que cada lote de
+                producción se adapta a las necesidades individuales de nuestros
+                clientes.
+              </p>
+            </div>
+
+            <div class="watch-video mt-4 pt-2">
+              <a
+                href="https://1.envato.market/4n73n"
+                target="_blank"
+                class="btn btn-primary mb-2"
+                >Saber más<chevron-right-icon
+                  class="fea icon-sm"
+                ></chevron-right-icon
+              ></a>
+            </div>
+            <b-modal
+              id="modal"
+              hide-footer
+              size="lg"
+              header-close-variant="white"
+              header-class="border-0"
+              content-class="border-0"
+              centered
+            >
+              <youtube
+                video-id="jNTZpfXYJa4"
+                ref="youtube"
+                width="750"
+                height="450"
+              ></youtube>
+            </b-modal>
+          </div>
+        </div>
       </div>
-      <!--end container-->
-    </section>
-    <!--end section-->
-    <!-- Testi Subscribe End -->
+      <!--end row-->
+    </div>
+    <!--end container-->
 
     <!-- Partners Start -->
     <section class="py-4 bg-light">
