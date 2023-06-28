@@ -259,9 +259,9 @@ const routes = [
     component: () => import("../views/page-aboutus"),
   },
   {
-    path: "/page-aboutus-two",
-    name: "aboutus-two",
-    component: () => import("../views/page-aboutus-two"),
+    path: "/sobre-nosotros",
+    name: "sobre-nosotros",
+    component: () => import("../views/sobre-nosotros"),
   },
   {
     path: "/page-services",

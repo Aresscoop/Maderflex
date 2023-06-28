@@ -8,7 +8,7 @@ import {
 } from "vue-feather-icons";
 
 import Navbar from "@/components/navbar";
-import Switcher from "@/components/switcher";
+// import Switcher from "@/components/switcher";
 import Footer from "@/components/footer";
 
 /**
@@ -20,7 +20,7 @@ export default {
   },
   components: {
     Navbar,
-    Switcher,
+    // Switcher,
     Footer,
     UserIcon,
     ArrowUpIcon,
@@ -33,29 +33,31 @@ export default {
 
 <template>
   <div>
-    <Navbar />
+    <Navbar :nav-light="true" />
 
     <!-- Hero Start -->
     <section
-      class="bg-half bg-light d-table w-100"
-      style="background: url('images/contact-detail.jpg') center center"
+      class="bg-half d-table w-100"
+      style="background: url('images/principal/fondo_contacto.png')"
     >
-      <div class="bg-overlay bg-overlay-white"></div>
+      <div class="bg-overlay"></div>
       <div class="container">
         <div class="row justify-content-center">
           <div class="col-lg-12 text-center">
-            <div class="page-next-level">
-              <h4 class="title">Contact Us</h4>
+            <div class="page-next-level title-heading">
+              <h1 class="text-white title-dark">Contacto</h1>
+              <!-- <p class="text-white-50 para-desc mb-0 mx-auto">
+                Para nosotros el descanso es muy importante, por ello trabajamos
+                duro para crear unas laminas de calidad y resistentes.
+              </p> -->
               <div class="page-next">
                 <nav aria-label="breadcrumb" class="d-inline-block">
                   <ul class="breadcrumb bg-white rounded shadow mb-0">
                     <li class="breadcrumb-item">
-                      <router-link to="/">Landrick</router-link>
+                      <router-link to="/">Inicio</router-link>
                     </li>
-                    <li class="breadcrumb-item"><a href="#">Page</a></li>
-                    <li class="breadcrumb-item"><a href="#">Contact</a></li>
                     <li class="breadcrumb-item active" aria-current="page">
-                      Contact Three
+                      Contacto
                     </li>
                   </ul>
                 </nav>
@@ -69,6 +71,21 @@ export default {
       <!--end container-->
     </section>
     <!--end section-->
+
+    <div class="position-relative">
+      <div class="shape overflow-hidden text-white">
+        <svg
+          viewBox="0 0 2880 48"
+          fill="none"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M0 48H1437.5H2880V0H2160C1442.5 52 720 0 720 0H0V48Z"
+            fill="currentColor"
+          ></path>
+        </svg>
+      </div>
+    </div>
     <!-- Hero End -->
 
     <!-- Shape Start -->

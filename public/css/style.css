@@ -2193,8 +2193,8 @@ button:not(:disabled) {
 }
 
 .social-icon.social li a {
-  color: #adb5bd;
-  border-color: #adb5bd;
+  color: #ffffff;
+  border-color: #ffffff;
 }
 
 .back-to-top {
@@ -5583,10 +5583,10 @@ p {
 }
 
 .footer {
-  background: #202942;
+  background: #68904C;
   padding: 60px 0;
   position: relative;
-  color: #adb5bd;
+  color: #ffffff;
 }
 
 .footer .logo-footer {
@@ -5630,7 +5630,7 @@ p {
 }
 
 .footer .text-foot {
-  color: #adb5bd;
+  color: #ffffff;
 }
 
 .footer .footer-list {
@@ -5656,7 +5656,7 @@ p {
 
 .footer.footer-border,
 .footer.footer-bar {
-  border-top: 1px solid #283353;
+  border-top: 1px solid #ffffff;
 }
 
 .footer.footer-bar {

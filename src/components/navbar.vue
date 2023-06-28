@@ -236,6 +236,11 @@ export default {
               <router-link to="/" class="side-nav-link-ref">Inicio</router-link>
             </li>
             <li>
+              <router-link to="/sobre-nosotros" class="side-nav-link-ref"
+                >Sobre Nosotros</router-link
+              >
+            </li>
+            <li>
               <router-link to="/contacto" class="side-nav-link-ref"
                 >Contacto</router-link
               >
@@ -605,7 +610,7 @@ export default {
                     </li>
                     <li>
                       <router-link
-                        to="/page-aboutus-two"
+                        to="/sobre-nosotros"
                         class="side-nav-link-ref"
                       >
                         About Us Two

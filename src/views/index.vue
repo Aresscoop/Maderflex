@@ -434,7 +434,7 @@ export default {
               >
                 <div class="card-body p-0">
                   <img
-                    src="images/course/online/ab01.jpg"
+                    src="images/principal/palet.png"
                     class="img-fluid"
                     alt="work-image"
                   />
@@ -460,7 +460,7 @@ export default {
                   >
                     <div class="card-body p-0">
                       <img
-                        src="images/course/online/ab02.jpg"
+                        src="images/principal/laminas_finas.png"
                         class="img-fluid"
                         alt="work-image"
                       />
@@ -484,7 +484,7 @@ export default {
                   >
                     <div class="card-body p-0">
                       <img
-                        src="images/course/online/ab03.jpg"
+                        src="images/principal/troncos.png"
                         class="img-fluid"
                         alt="work-image"
                       />
@@ -513,7 +513,11 @@ export default {
         <div class="col-lg-6 col-md-6 mt-4 mt-lg-0 pt- pt-lg-0">
           <div class="ml-lg-4">
             <div class="section-title mb-4 pb-2">
-              <h4 class="title mb-4">Chapa de haya cortada perifericamente</h4>
+              <h2 class="title mb-4">
+                <span class="text-primary"
+                  >Chapa de haya cortada perifericamente</span
+                >
+              </h2>
               <p class="text-muted para-desc">
                 Las chapas que ofrecemos se obtienen a partir de madera de haya
                 de origen nacional y extranjero.
