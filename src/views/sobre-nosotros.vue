@@ -142,10 +142,9 @@ export default {
                 <span class="text-primary">Quiénes somos?</span>
               </h2>
               <p class="text-muted para-desc mx-auto mb-0">
-                Start working with
-                <span class="text-primary font-weight-bold">Landrick</span> that
-                can provide everything you need to generate awareness, drive
-                traffic, connect.
+                <span class="text-primary font-weight-bold">Maderflex</span>
+                cuanta con un gran equipo de profesionales, expertos en la
+                materia.
               </p>
             </div>
           </div>
@@ -302,13 +301,11 @@ export default {
           <div class="col-md-8">
             <div class="section-title text-center text-md-left">
               <h2 class="title mb-4">
-                <span class="text-primary">Nuestros Servicios</span>
+                <span class="text-primary">Nuestros Productos</span>
               </h2>
               <p class="text-muted mb-0 para-desc">
-                Start working with
-                <span class="text-primary font-weight-bold">Landrick</span> that
-                can provide everything you need to generate awareness, drive
-                traffic, connect.
+                Para nosotros el descanso es muy importante y para ello contamos
+                con gran variedad de productos.
               </p>
             </div>
           </div>
@@ -328,78 +325,77 @@ export default {
             <b-tab>
               <template v-slot:title>
                 <div class="text-center pt-1 pb-1">
-                  <h6 class="title font-weight-normal mb-0">Web Developing</h6>
+                  <h6 class="title font-weight-normal mb-0">
+                    Láminas para somieres
+                  </h6>
                 </div>
               </template>
               <img
-                src="images/work/7.jpg"
+                src="images/principal/somier.png"
                 class="img-fluid rounded shadow"
                 alt=""
               />
               <div class="mt-4">
                 <p class="text-muted">
-                  This is required when, for example, the final text is not yet
-                  available. Dummy text is also known as 'fill text'. It is said
-                  that song composers of the past used dummy texts as lyrics.
+                  Láminas de calidad para somieres, las cuales se encargarán de
+                  ofrecer un reposo perfecto para tu colchón.
                 </p>
-                <a href="javascript:void(0)" class="text-primary"
+                <!-- <a href="javascript:void(0)" class="text-primary"
                   >See More
                   <arrow-right-icon class="fea icon-sm"></arrow-right-icon
-                ></a>
+                ></a> -->
               </div>
             </b-tab>
             <b-tab title-item-class="mt-2">
               <template v-slot:title>
                 <div class="text-center pt-1 pb-1">
                   <h6 class="title font-weight-normal mb-0">
-                    Database Analysis
+                    Chapas de madera
                   </h6>
                 </div>
               </template>
               <img
-                src="images/work/8.jpg"
+                src="images/principal/lamas.png"
                 class="img-fluid rounded shadow"
                 alt=""
               />
               <div class="mt-4">
                 <p class="text-muted">
-                  This is required when, for example, the final text is not yet
-                  available. Dummy text is also known as 'fill text'. It is said
-                  that song composers of the past used dummy texts as lyrics.
+                  Gran variedad de chapas de madera de distintos tipos como
+                  haya, abedul y chopo.
                 </p>
-                <a href="javascript:void(0)" class="text-primary"
+                <!-- <a href="javascript:void(0)" class="text-primary"
                   >See More
                   <arrow-right-icon class="fea icon-sm"></arrow-right-icon
-                ></a>
+                ></a> -->
               </div>
             </b-tab>
             <b-tab title-item-class="mt-2">
               <template v-slot:title>
                 <div class="text-center pt-1 pb-1">
-                  <h6 class="title font-weight-normal mb-0">Server Security</h6>
+                  <h6 class="title font-weight-normal mb-0">Patas de metal</h6>
                 </div>
               </template>
               <img
-                src="images/work/9.jpg"
+                src="images/principal/patas.png"
                 class="img-fluid rounded shadow"
                 alt=""
               />
               <div class="mt-4">
                 <p class="text-muted">
-                  This is required when, for example, the final text is not yet
-                  available. Dummy text is also known as 'fill text'. It is said
-                  that song composers of the past used dummy texts as lyrics.
+                  Patas de hierro resistentes y ajustables, de varias medidas
+                  para un mayor confort.
                 </p>
-                <a href="javascript:void(0)" class="text-primary"
+                <!-- <a href="javascript:void(0)" class="text-primary"
                   >See More
                   <arrow-right-icon class="fea icon-sm"></arrow-right-icon
-                ></a>
+                ></a> -->
               </div>
             </b-tab>
-            <b-tab title-item-class="mt-2">
+            <!-- <b-tab title-item-class="mt-2">
               <template v-slot:title>
                 <div class="text-center pt-1 pb-1">
-                  <h6 class="title font-weight-normal mb-0">Web Designing</h6>
+                  <h6 class="title font-weight-normal mb-0">Madera </h6>
                 </div>
               </template>
               <img
@@ -418,7 +414,7 @@ export default {
                   <arrow-right-icon class="fea icon-sm"></arrow-right-icon
                 ></a>
               </div>
-            </b-tab>
+            </b-tab> -->
           </b-tabs>
           <!--end nav pills-->
         </div>
@@ -439,11 +435,11 @@ export default {
             >
               <div class="position-relative">
                 <img
-                  src="images/cta-bg.jpg"
+                  src="images/principal/maquina_troncos.png"
                   class="img-fluid rounded-md shadow-lg"
-                  alt=""
+                  alt="maquina con troncos"
                 />
-                <div class="play-icon">
+                <!-- <div class="play-icon">
                   <a
                     href="javascript: void(0);"
                     v-b-modal.modal
@@ -453,7 +449,7 @@ export default {
                       class="mdi mdi-play text-primary rounded-circle bg-white shadow-lg"
                     ></i>
                   </a>
-                </div>
+                </div> -->
                 <b-modal
                   id="modal"
                   hide-footer

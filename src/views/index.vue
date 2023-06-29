@@ -133,7 +133,7 @@ export default {
       <b-carousel fade id="carousel-1" v-model="slide" class="slides">
         <b-carousel-slide
           class="bg-slider d-flex align-items-center"
-          style="background-image: url('images/MaderFlex.png')"
+          style="background-image: url('images/MaderFlex.jpg')"
         >
           <div class="bg-overlay"></div>
           <div class="container">
@@ -162,7 +162,7 @@ export default {
         </b-carousel-slide>
         <b-carousel-slide
           class="bg-slider d-flex align-items-center"
-          style="background-image: url('images/MaderFlex2.png')"
+          style="background-image: url('images/MaderFlex2.jpg')"
         >
           <div class="bg-overlay"></div>
           <div class="container">

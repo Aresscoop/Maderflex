@@ -216,12 +216,12 @@ export default {
                 <i class="uil uil-phone d-block rounded h3 mb-0"></i>
               </div>
               <div class="content mt-3">
-                <h5 class="font-weight-bold">Phone</h5>
+                <h5 class="font-weight-bold">Teléfono</h5>
                 <p class="text-muted">
-                  Start working with Landrick that can provide everything
+                  Si tienes cualrquier duda contacta con nosotros!
                 </p>
                 <a href="tel:+152534-468-854" class="text-primary"
-                  >+152 534-468-854</a
+                  >+XX XXX XX XX</a
                 >
               </div>
             </div>
@@ -236,10 +236,10 @@ export default {
               <div class="content mt-3">
                 <h5 class="font-weight-bold">Email</h5>
                 <p class="text-muted">
-                  Start working with Landrick that can provide everything
+                  O si lo prefieres puedes envíarnos un correo!
                 </p>
                 <a href="mailto:contact@example.com" class="text-primary"
-                  >contact@example.com</a
+                  >correo@ejemplo.com</a
                 >
               </div>
             </div>
@@ -252,14 +252,12 @@ export default {
                 <i class="uil uil-map-marker d-block rounded h3 mb-0"></i>
               </div>
               <div class="content mt-3">
-                <h5 class="font-weight-bold">Location</h5>
-                <p class="text-muted">
-                  C/54 Northwest Freeway, Suite 558, <br />Houston, USA 485
-                </p>
+                <h5 class="font-weight-bold">Dirección</h5>
+                <p class="text-muted">Aquí va la dirección</p>
                 <a
                   href="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d39206.002432144705!2d-95.4973981212445!3d29.709510002925988!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8640c16de81f3ca5%3A0xf43e0b60ae539ac9!2sGerald+D.+Hines+Waterwall+Park!5e0!3m2!1sen!2sin!4v1566305861440!5m2!1sen!2sin"
                   class="video-play-icon h6 text-primary"
-                  >View on Google map</a
+                  >Ver en Google Maps</a
                 >
               </div>
             </div>

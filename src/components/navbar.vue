@@ -245,7 +245,7 @@ export default {
                 >Contacto</router-link
               >
             </li>
-            <li class="has-submenu">
+            <!-- <li class="has-submenu">
               <a href="javascript:void(0)" @click="onMenuClick">Landing</a
               ><span class="menu-arrow"></span>
               <ul class="submenu megamenu">
@@ -593,9 +593,9 @@ export default {
                   </ul>
                 </li>
               </ul>
-            </li>
+            </li> -->
 
-            <li class="has-submenu">
+            <!-- <li class="has-submenu">
               <a href="javascript:void(0)" @click="onMenuClick">Pages</a
               ><span class="menu-arrow"></span>
               <ul class="submenu">
@@ -1170,7 +1170,7 @@ export default {
                   </ul>
                 </li>
               </ul>
-            </li>
+            </li> -->
             <div style="padding-top: 20px; padding-left: 20px">
               <router-link to="/" class="side-nav-link-ref"
                 ><img
