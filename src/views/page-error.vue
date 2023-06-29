@@ -35,10 +35,10 @@ export default {
               Página No Encontrada
             </div>
             <p class="text-muted para-desc mx-auto">
-              Start working with
-              <span class="text-primary font-weight-bold">Landrick</span> that
-              can provide everything you need to generate awareness, drive
-              traffic, connect.
+              La página que buscas en
+              <span class="text-primary font-weight-bold"> Maderflex </span> no
+              se encuentra en este momento, no existe o está en mantenimiento,
+              vuelve atrás o a la página de inicio desde los siguientes botones.
             </p>
           </div>
           <!--end col-->
