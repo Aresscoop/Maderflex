@@ -160,7 +160,7 @@ export default {
             <div class="app-feature-shape-left position-relative">
               <div class="text-center text-md-left">
                 <img
-                  src="images/construction/t1.jpg"
+                  src="images/principal/persona.png"
                   class="img-fluid"
                   alt=""
                 />
@@ -171,15 +171,13 @@ export default {
 
           <div class="col-lg-6 col-md-7 mt-5 mt-sm-0">
             <div class="section-title">
-              <h3 class="title mb-3">Nombre 1</h3>
-              <p class="para-desc text-muted">
-                Breve descripción sobre el/ella.
-              </p>
+              <h3 class="title mb-3">Kike</h3>
+              <p class="para-desc text-muted">Breve descripción sobre el.</p>
               <ul class="list-unstyled text-muted">
                 <li class="mb-0">
                   <span class="text-primary h5 mr-2"
                     ><i class="uil uil-check-circle align-middle"></i></span
-                  >Labor en la empresa.
+                  >Comercial.
                 </li>
                 <li class="mb-0">
                   <span class="text-primary h5 mr-2"
@@ -204,15 +202,13 @@ export default {
         <div class="row align-items-center">
           <div class="col-lg-6 col-md-7 order-2 order-md-1 mt-5 mt-sm-0">
             <div class="section-title">
-              <h3 class="title mb-3">Nombre 2</h3>
-              <p class="para-desc text-muted">
-                Breve descripción sobre el/ella.
-              </p>
+              <h3 class="title mb-3">Javier</h3>
+              <p class="para-desc text-muted">Breve descripción sobre el.</p>
               <ul class="list-unstyled text-muted">
                 <li class="mb-0">
                   <span class="text-primary h5 mr-2"
                     ><i class="uil uil-check-circle align-middle"></i></span
-                  >Labor en la empresa.
+                  >Almacén.
                 </li>
                 <li class="mb-0">
                   <span class="text-primary h5 mr-2"
@@ -233,7 +229,7 @@ export default {
             <div class="app-feature-shape-right position-relative">
               <div class="text-center text-md-right">
                 <img
-                  src="images/construction/t2.jpg"
+                  src="images/principal/persona.png"
                   class="img-fluid"
                   alt=""
                 />
@@ -252,7 +248,7 @@ export default {
             <div class="app-feature-shape-left position-relative">
               <div class="text-center text-md-left">
                 <img
-                  src="images/construction/t1.jpg"
+                  src="images/principal/persona.png"
                   class="img-fluid"
                   alt=""
                 />
@@ -263,15 +259,13 @@ export default {
 
           <div class="col-lg-6 col-md-7 mt-5 mt-sm-0">
             <div class="section-title">
-              <h3 class="title mb-3">Nombre 3</h3>
-              <p class="para-desc text-muted">
-                Breve descripción sobre el/ella.
-              </p>
+              <h3 class="title mb-3">Miguel</h3>
+              <p class="para-desc text-muted">Breve descripción sobre el.</p>
               <ul class="list-unstyled text-muted">
                 <li class="mb-0">
                   <span class="text-primary h5 mr-2"
                     ><i class="uil uil-check-circle align-middle"></i></span
-                  >Labor en la empresa.
+                  >Administración.
                 </li>
                 <li class="mb-0">
                   <span class="text-primary h5 mr-2"

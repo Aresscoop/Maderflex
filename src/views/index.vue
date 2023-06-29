@@ -246,11 +246,11 @@ export default {
                         encargarán de ofrecer un reposo perfecto para tu
                         colchón.
                       </p>
-                      <a
-                        href="javascript:void(0)"
+                      <router-link
+                        to="/sobre-nosotros"
                         class="text-primary read-more"
                         >Saber más<i class="mdi mdi-chevron-right"></i
-                      ></a>
+                      ></router-link>
                       <i
                         class="uil uil-align-justify text-primary full-img"
                       ></i>
@@ -276,11 +276,11 @@ export default {
                         Gran variedad de chapas de madera de distintos tipos
                         como haya, abedul y chopo.
                       </p>
-                      <a
-                        href="javascript:void(0)"
+                      <router-link
+                        to="/sobre-nosotros"
                         class="text-primary read-more"
                         >Saber más<i class="mdi mdi-chevron-right"></i
-                      ></a>
+                      ></router-link>
                       <i class="uil uil-layer-group text-primary full-img"></i>
                     </div>
                   </div>
@@ -302,11 +302,11 @@ export default {
                         Patas de hierro resistentes y ajustables, de varias
                         medidas para un mayor confort.
                       </p>
-                      <a
-                        href="javascript:void(0)"
+                      <router-link
+                        to="/sobre-nosotros"
                         class="text-primary read-more"
                         >Saber más<i class="mdi mdi-chevron-right"></i
-                      ></a>
+                      ></router-link>
                       <i class="uil uil-bed text-primary full-img"></i>
                     </div>
                   </div>
@@ -407,8 +407,8 @@ export default {
                   servicios integrales, todavía atrae a nuevos clientes.
                 </p>
                 <div class="mt-4">
-                  <a href="javascript:void(0)" class="btn btn-primary"
-                    >Saber más</a
+                  <router-link to="/sobre-nosotros" class="btn btn-primary"
+                    >Saber más</router-link
                   >
                 </div>
               </div>
@@ -535,14 +535,11 @@ export default {
             </div>
 
             <div class="watch-video mt-4 pt-2">
-              <a
-                href="https://1.envato.market/4n73n"
-                target="_blank"
-                class="btn btn-primary mb-2"
+              <router-link to="/sobre-nosotros" class="btn btn-primary mb-2"
                 >Saber más<chevron-right-icon
                   class="fea icon-sm"
                 ></chevron-right-icon
-              ></a>
+              ></router-link>
             </div>
             <b-modal
               id="modal"

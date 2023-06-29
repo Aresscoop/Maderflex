@@ -183,12 +183,12 @@
 }
 
 .pagination .page-item .page-link:hover {
-    border-color: rgba(47, 85, 212, 0.9);
+    border-color: rgba(104, 144, 76, 0.9);
 }
 
 a.text-primary:hover, 
 a.text-primary:focus {
-    color: #284bc1 !important;
+    color: #696865 !important;
 }
 
 .social-icon li a:hover .fea-social {
@@ -196,7 +196,7 @@ a.text-primary:focus {
 }
 
 .bg-overlay-gradient {
-    background-color: rgba(47, 85, 212, 0.6);
+    background-color: rgba(104, 144, 76, 0.6);
 }
 
 .bg-overlay-gradient2 {
@@ -231,7 +231,7 @@ a.text-primary:focus {
 }
 
 .owl-theme .owl-dots .owl-dot span {
-    background: rgba(47, 85, 212, 0.5) !important;
+    background: rgba(104, 144, 76, 0.5) !important;
 }
 
 .play-icon i,
@@ -245,12 +245,12 @@ a.text-primary:focus {
 
 .event-schedule .date .day {
     background: rgba(47, 85, 212, 0.1);
-    box-shadow: 0px 0px 2px 0.25px rgba(47, 85, 212, 0.5);
+    box-shadow: 0px 0px 2px 0.25px rgba(104, 144, 76, 0.5);
 }
 
 .classic-app-image .bg-app-shape:after,
 .classic-saas-image .bg-saas-shape:after {
-    box-shadow: 0 0 40px rgba(47, 85, 212, 0.5);
+    box-shadow: 0 0 40px rgba(104, 144, 76, 0.5);
 }
 
 .app-feature-shape-right:after,

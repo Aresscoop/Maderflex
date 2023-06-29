@@ -194,10 +194,13 @@ export default {
             <div class="card map map-height-two rounded map-gray border-0">
               <div class="card-body p-0">
                 <iframe
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d39206.002432144705!2d-95.4973981212445!3d29.709510002925988!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8640c16de81f3ca5%3A0xf43e0b60ae539ac9!2sGerald+D.+Hines+Waterwall+Park!5e0!3m2!1sen!2sin!4v1566305861440!5m2!1sen!2sin"
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3085.148965394687!2d-0.41787882364659823!3d39.35286307163043!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd604d031b67e07f%3A0x808ec1640234aca5!2sAv.%20Algudor%2C%2018%2C%2046460%20Silla%2C%20Valencia!5e0!3m2!1ses!2ses!4v1688037033536!5m2!1ses!2ses"
+                  width="600"
+                  height="450"
                   style="border: 0"
-                  class="rounded"
                   allowfullscreen=""
+                  loading="lazy"
+                  referrerpolicy="no-referrer-when-downgrade"
                 ></iframe>
               </div>
             </div>
@@ -220,8 +223,14 @@ export default {
                 <p class="text-muted">
                   Si tienes cualrquier duda contacta con nosotros!
                 </p>
-                <a href="tel:+152534-468-854" class="text-primary"
-                  >+XX XXX XX XX</a
+                <a href="tel:+96687743043" class="text-primary"
+                  >+687 743 043 (Comercial)</a
+                ><br />
+                <a href="tel:+96687743044" class="text-primary"
+                  >+687 743 044 (Almacén)</a
+                ><br />
+                <a href="tel:+96687743045" class="text-primary"
+                  >+687 743 045 (Administración)</a
                 >
               </div>
             </div>
@@ -238,8 +247,8 @@ export default {
                 <p class="text-muted">
                   O si lo prefieres puedes envíarnos un correo!
                 </p>
-                <a href="mailto:contact@example.com" class="text-primary"
-                  >correo@ejemplo.com</a
+                <a href="mailto:info@maderflex.com" class="text-primary"
+                  >info@maderflex.com</a
                 >
               </div>
             </div>
@@ -253,10 +262,11 @@ export default {
               </div>
               <div class="content mt-3">
                 <h5 class="font-weight-bold">Dirección</h5>
-                <p class="text-muted">Aquí va la dirección</p>
+                <p class="text-muted">Av. Algudor, 18, 46460 Silla, Valencia</p>
                 <a
-                  href="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d39206.002432144705!2d-95.4973981212445!3d29.709510002925988!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8640c16de81f3ca5%3A0xf43e0b60ae539ac9!2sGerald+D.+Hines+Waterwall+Park!5e0!3m2!1sen!2sin!4v1566305861440!5m2!1sen!2sin"
+                  href="https://goo.gl/maps/NqZie7mQ6Cu8tWnz7"
                   class="video-play-icon h6 text-primary"
+                  target="_blank"
                   >Ver en Google Maps</a
                 >
               </div>
