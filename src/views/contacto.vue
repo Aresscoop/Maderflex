@@ -46,10 +46,6 @@ export default {
           <div class="col-lg-12 text-center">
             <div class="page-next-level title-heading">
               <h1 class="text-white title-dark">Contacto</h1>
-              <!-- <p class="text-white-50 para-desc mb-0 mx-auto">
-                Para nosotros el descanso es muy importante, por ello trabajamos
-                duro para crear unas laminas de calidad y resistentes.
-              </p> -->
               <div class="page-next">
                 <nav aria-label="breadcrumb" class="d-inline-block">
                   <ul class="breadcrumb bg-white rounded shadow mb-0">
@@ -88,23 +84,6 @@ export default {
     </div>
     <!-- Hero End -->
 
-    <!-- Shape Start -->
-    <div class="position-relative">
-      <div class="shape overflow-hidden text-white">
-        <svg
-          viewBox="0 0 2880 48"
-          fill="none"
-          xmlns="http://www.w3.org/2000/svg"
-        >
-          <path
-            d="M0 48H1437.5H2880V0H2160C1442.5 52 720 0 720 0H0V48Z"
-            fill="currentColor"
-          ></path>
-        </svg>
-      </div>
-    </div>
-    <!--Shape End-->
-
     <!-- Start Contact -->
     <section class="section">
       <div class="container">
@@ -112,7 +91,7 @@ export default {
           <div class="col-lg-4 col-md-6 mt-4 pt-2">
             <div class="card shadow rounded border-0">
               <div class="card-body py-5">
-                <h4 class="card-title">Get In Touch !</h4>
+                <h4 class="card-title">Contáctanos!</h4>
                 <div class="custom-form mt-4">
                   <div id="message"></div>
                   <form name="contact-form" id="contact-form">
@@ -120,7 +99,7 @@ export default {
                       <div class="col-md-6">
                         <div class="form-group">
                           <label
-                            >Your Name <span class="text-danger">*</span></label
+                            >Nombre <span class="text-danger">*</span></label
                           >
                           <div class="position-relative">
                             <user-icon class="fea icon-sm icons"></user-icon>
@@ -129,7 +108,7 @@ export default {
                               id="name"
                               type="text"
                               class="form-control pl-5"
-                              placeholder="First Name :"
+                              placeholder="Nombre:"
                             />
                           </div>
                         </div>
@@ -138,8 +117,7 @@ export default {
                       <div class="col-md-6">
                         <div class="form-group">
                           <label
-                            >Your Email
-                            <span class="text-danger">*</span></label
+                            >Email <span class="text-danger">*</span></label
                           >
                           <div class="position-relative">
                             <mail-icon class="fea icon-sm icons"></mail-icon>
@@ -148,7 +126,7 @@ export default {
                               id="email"
                               type="email"
                               class="form-control pl-5"
-                              placeholder="Your email :"
+                              placeholder="Email:"
                             />
                           </div>
                         </div>
@@ -156,7 +134,7 @@ export default {
                       <!--end col-->
                       <div class="col-md-12">
                         <div class="form-group">
-                          <label>Subject</label>
+                          <label>Motivo del mensaje</label>
                           <div class="position-relative">
                             <book-icon class="fea icon-sm icons"></book-icon>
                             <input
@@ -164,7 +142,7 @@ export default {
                               id="subject"
                               type="text"
                               class="form-control pl-5"
-                              placeholder="Subject"
+                              placeholder="Motivo"
                             />
                           </div>
                         </div>
@@ -172,7 +150,7 @@ export default {
                       <!--end col-->
                       <div class="col-md-12">
                         <div class="form-group">
-                          <label>Comments</label>
+                          <label>Mensaje</label>
                           <div class="position-relative">
                             <message-circle-icon
                               class="fea icon-sm icons"
@@ -182,7 +160,7 @@ export default {
                               id="comments"
                               rows="4"
                               class="form-control pl-5"
-                              placeholder="Your Message :"
+                              placeholder="Escribir mensaje..."
                             ></textarea>
                           </div>
                         </div>
@@ -196,7 +174,7 @@ export default {
                           id="submit"
                           name="send"
                           class="submitBnt btn btn-primary btn-block"
-                          value="Send Message"
+                          value="Envíar mensaje"
                         />
                         <div id="simple-msg"></div>
                       </div>

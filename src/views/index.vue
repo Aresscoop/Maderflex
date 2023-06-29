@@ -239,10 +239,10 @@ export default {
                     </div>
                     <div class="card-body p-0 mt-4">
                       <a href="javascript:void(0)" class="title h5 text-dark">
-                        Laminas para somieres</a
+                        Láminas para somieres</a
                       >
                       <p class="text-muted mt-2">
-                        Laminas de calidad para somieres, las cuales se
+                        Láminas de calidad para somieres, las cuales se
                         encargarán de ofrecer un reposo perfecto para tu
                         colchón.
                       </p>
@@ -443,9 +443,9 @@ export default {
                     <a
                       href="javascript:void(0)"
                       class="title text-white d-block font-weight-bold"
-                      >Web Development</a
+                      >Palet con maderas</a
                     >
-                    <small class="text-light">IT & Software</small>
+                    <!-- <small class="text-light">IT & Software</small> -->
                   </div>
                 </div>
               </div>
@@ -469,9 +469,9 @@ export default {
                         <a
                           href="javascript:void(0)"
                           class="title text-white d-block font-weight-bold"
-                          >Michanical Engineer</a
+                          >Láminas de madera</a
                         >
-                        <small class="text-light">Engineering</small>
+                        <!-- <small class="text-light">Engineering</small> -->
                       </div>
                     </div>
                   </div>
@@ -493,9 +493,9 @@ export default {
                         <a
                           href="javascript:void(0)"
                           class="title text-white d-block font-weight-bold"
-                          >Chartered Accountant</a
+                          >Troncos matería prima</a
                         >
-                        <small class="text-light">C.A.</small>
+                        <!-- <small class="text-light">C.A.</small> -->
                       </div>
                     </div>
                   </div>

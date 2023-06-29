@@ -174,24 +174,23 @@ export default {
             <div class="section-title">
               <h3 class="title mb-3">Nombre 1</h3>
               <p class="para-desc text-muted">
-                Launch your campaign and benefit from our expertise on designing
-                and managing conversion centered bootstrap4 html page.
+                Breve descripción sobre el/ella.
               </p>
               <ul class="list-unstyled text-muted">
                 <li class="mb-0">
                   <span class="text-primary h5 mr-2"
                     ><i class="uil uil-check-circle align-middle"></i></span
-                  >Digital Marketing Solutions for Tomorrow
+                  >Labor en la empresa.
                 </li>
                 <li class="mb-0">
                   <span class="text-primary h5 mr-2"
                     ><i class="uil uil-check-circle align-middle"></i></span
-                  >Our Talented & Experienced Marketing Agency
+                  >Labor en la empresa.
                 </li>
                 <li class="mb-0">
                   <span class="text-primary h5 mr-2"
                     ><i class="uil uil-check-circle align-middle"></i></span
-                  >Create your own skin to match your brand
+                  >Labor en la empresa.
                 </li>
               </ul>
             </div>
@@ -208,24 +207,23 @@ export default {
             <div class="section-title">
               <h3 class="title mb-3">Nombre 2</h3>
               <p class="para-desc text-muted">
-                Launch your campaign and benefit from our expertise on designing
-                and managing conversion centered bootstrap4 html page.
+                Breve descripción sobre el/ella.
               </p>
               <ul class="list-unstyled text-muted">
                 <li class="mb-0">
                   <span class="text-primary h5 mr-2"
                     ><i class="uil uil-check-circle align-middle"></i></span
-                  >Digital Marketing Solutions for Tomorrow
+                  >Labor en la empresa.
                 </li>
                 <li class="mb-0">
                   <span class="text-primary h5 mr-2"
                     ><i class="uil uil-check-circle align-middle"></i></span
-                  >Our Talented & Experienced Marketing Agency
+                  >Labor en la empresa.
                 </li>
                 <li class="mb-0">
                   <span class="text-primary h5 mr-2"
                     ><i class="uil uil-check-circle align-middle"></i></span
-                  >Create your own skin to match your brand
+                  >Labor en la empresa.
                 </li>
               </ul>
             </div>
@@ -268,24 +266,23 @@ export default {
             <div class="section-title">
               <h3 class="title mb-3">Nombre 3</h3>
               <p class="para-desc text-muted">
-                Launch your campaign and benefit from our expertise on designing
-                and managing conversion centered bootstrap4 html page.
+                Breve descripción sobre el/ella.
               </p>
               <ul class="list-unstyled text-muted">
                 <li class="mb-0">
                   <span class="text-primary h5 mr-2"
                     ><i class="uil uil-check-circle align-middle"></i></span
-                  >Digital Marketing Solutions for Tomorrow
+                  >Labor en la empresa.
                 </li>
                 <li class="mb-0">
                   <span class="text-primary h5 mr-2"
                     ><i class="uil uil-check-circle align-middle"></i></span
-                  >Our Talented & Experienced Marketing Agency
+                  >Labor en la empresa.
                 </li>
                 <li class="mb-0">
                   <span class="text-primary h5 mr-2"
                     ><i class="uil uil-check-circle align-middle"></i></span
-                  >Create your own skin to match your brand
+                  >Labor en la empresa.
                 </li>
               </ul>
             </div>
