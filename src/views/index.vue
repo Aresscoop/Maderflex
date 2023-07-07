@@ -247,7 +247,7 @@ export default {
                         colchón.
                       </p>
                       <router-link
-                        to="/sobre-nosotros"
+                        to="/page-portfolio-detail"
                         class="text-primary read-more"
                         >Saber más<i class="mdi mdi-chevron-right"></i
                       ></router-link>
@@ -277,7 +277,7 @@ export default {
                         como haya, abedul y chopo.
                       </p>
                       <router-link
-                        to="/sobre-nosotros"
+                        to="/page-portfolio-detail"
                         class="text-primary read-more"
                         >Saber más<i class="mdi mdi-chevron-right"></i
                       ></router-link>
@@ -303,7 +303,7 @@ export default {
                         medidas para un mayor confort.
                       </p>
                       <router-link
-                        to="/sobre-nosotros"
+                        to="/page-portfolio-detail"
                         class="text-primary read-more"
                         >Saber más<i class="mdi mdi-chevron-right"></i
                       ></router-link>
@@ -563,6 +563,130 @@ export default {
       <!--end row-->
     </div>
     <!--end container-->
+
+    <!-- Start CTA -->
+    <div class="container-fluid mt-60">
+      <div
+        class="rounded py-5"
+        style="background: url('images/principal/madera.png') fixed"
+      >
+        <div class="container">
+          <div class="row">
+            <div class="col-12">
+              <div class="section-title" style="text-align: center">
+                <h2 class="font-weight-bold mb-4">
+                  Los mejores somieres en
+                  <span class="text-primary font-weight-bold">Maderflex</span>
+                </h2>
+                <p class="para-white mb-10">
+                  Las mejores láminas de madera son las de haya y además de
+                  durabilidad proporcionan mayor flexibilidad, evitando de esta
+                  manera la fácil rotura de estas. Los somieres con bastidores
+                  metálicos son más baratos y fácil de transportar ya que tienen
+                  un peso inferior a los de madera.
+                </p>
+                <!-- <div class="mt-4">
+                  <router-link to="/sobre-nosotros" class="btn btn-primary"
+                    >Saber más</router-link
+                  >
+                </div> -->
+              </div>
+            </div>
+            <!--end col-->
+          </div>
+          <!--end row-->
+        </div>
+        <!--end container-->
+      </div>
+    </div>
+    <!--end container-->
+    <!-- End CTA -->
+
+    <section class="section">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-12">
+            <div class="section-title text-center mb-4 pb-2">
+              <h2 class="title mb-4">
+                <span class="text-primary">Proceso de Compra</span>
+              </h2>
+              <p class="text-muted para-desc mx-auto mb-0">
+                A veces el proceso de compra puede ser complicado pero en
+                <span class="text-primary font-weight-bold">Maderflex</span>
+                queremos ponértelo fácil, aquí puedes ver el proceso de
+                adquisición de nuestros productos, si tienes cualquier duda,
+                contáctanos!
+              </p>
+            </div>
+          </div>
+          <!--end col-->
+        </div>
+        <!--end row-->
+
+        <div class="row">
+          <div class="col-md-4 mt-4 pt-2">
+            <div
+              class="card features work-process bg-transparent process-arrow border-0 text-center"
+            >
+              <div class="icons rounded h1 text-center text-primary px-3">
+                <i class="uil uil-shopping-bag"></i>
+              </div>
+
+              <div class="card-body">
+                <h4 class="title text-dark">Elección del producto</h4>
+                <p class="text-muted mb-0">
+                  Primero tendrás que elegir qué deseas adquirir, ya sean
+                  láminas para somieres, chapas de madera o patas de metal.
+                </p>
+              </div>
+            </div>
+          </div>
+          <!--end col-->
+
+          <div class="col-md-4 mt-md-5 pt-md-3 mt-4 pt-2">
+            <div
+              class="card features work-process bg-transparent process-arrow border-0 text-center"
+            >
+              <div class="icons rounded h1 text-center text-primary px-3">
+                <i class="uil uil-phone-volume"></i>
+              </div>
+
+              <div class="card-body">
+                <h4 class="title text-dark">Contácta con Nosotros</h4>
+                <p class="text-muted mb-0">
+                  El segundo paso es contactarnos, nosotros te asesoraremos
+                  sobré la opción que mejor se adapta a ti, así como recoger
+                  datos, ofrecerte un presupuesto, etc.
+                </p>
+              </div>
+            </div>
+          </div>
+          <!--end col-->
+
+          <div class="col-md-4 mt-md-5 pt-md-5 mt-4 pt-2">
+            <div
+              class="card features work-process bg-transparent d-none-arrow border-0 text-center"
+            >
+              <div class="icons rounded h1 text-center text-primary px-3">
+                <i class="uil uil-truck"></i>
+              </div>
+
+              <div class="card-body">
+                <h4 class="title text-dark">Envío del Pedido</h4>
+                <p class="text-muted mb-0">
+                  Lo último es esperar a que el producto te llegué a la
+                  dirección proporcionada.
+                </p>
+              </div>
+            </div>
+          </div>
+          <!--end col-->
+        </div>
+        <!--end row-->
+      </div>
+      <!--end container-->
+    </section>
+    <!--end section-->
 
     <!-- Partners Start -->
     <section class="py-4 bg-light">

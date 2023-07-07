@@ -2299,7 +2299,7 @@ button:not(:disabled) {
 body {
   font-family: "Nunito", sans-serif;
   overflow-x: hidden !important;
-  font-size: 16px;
+  font-size: 17px;
   color: #161c2d;
 }
 
@@ -2418,7 +2418,7 @@ p {
 }
 
 .para-desc {
-  max-width: 600px;
+  max-width: 800px;
 }
 
 .mt-100 {
@@ -3044,7 +3044,7 @@ p {
   }
 
   #topnav .navigation-menu.nav-light>li>a {
-    color: rgba(255, 255, 255, 0.5);
+    color: rgba(255, 255, 255, 0.8);
   }
 
   #topnav .navigation-menu.nav-light>li.active>a {
